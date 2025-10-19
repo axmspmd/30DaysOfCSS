@@ -24,8 +24,8 @@ div:hover button::after {
   content: "";
   width: 320px;
   height: 20px;
-  background: linear-gradient(#F34423, #A12A13);
-  box-shadow: 7px 5px 10px #651708;
+  background: linear-gradient(#183898, #101a87);
+  box-shadow: 7px 5px 10px #16085e;
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
   position: absolute;
